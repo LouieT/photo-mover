@@ -1,0 +1,13 @@
+# Ignore compiled python files
+*.pyc
+__pycache__
+
+# User specific JetBrains IDE files
+*.iml
+*.idea/
+
+# Exclude the Virtual Environment Directory from GIT
+env/
+
+# Ignore log files
+*.log
