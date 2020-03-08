@@ -9,5 +9,8 @@ __pycache__
 # Exclude the Virtual Environment Directory from GIT
 env/
 
+# Exclude Paths for Testing and Debugging
+test/
+
 # Ignore log files
 *.log
